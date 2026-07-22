@@ -26,7 +26,7 @@ To connect the disparate regions over Microsoft's high-speed private fiber backb
 
 > **Proof of Connection:**
 > *Drop your VNet Peering "Connected" status screenshot here*
-<img width="1043" height="871" alt="Screenshot 2026-07-21 222139" src="https://cloud.githubusercontent.com/assets/142388129//1f6192ab-57cf-46f3-971d-3988b52475a1.png" />
+<img width="1024" height="611" alt="download" src="https://github.com/user-attachments/assets/9a6dd34e-a2db-4a7c-9f53-202a6c81c702" />
 
 
 ---
