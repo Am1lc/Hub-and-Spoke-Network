@@ -48,7 +48,7 @@ Deployed a secure Linux server (`Spoke-Web-VM-02`) using an `F1als_v7` compute f
 
 > **Proof of VM Isolation:**
 > *Drop your Virtual Machine networking tab screenshot here*
-<img width="920" height="869" alt="Screenshot 2026-07-22 121129" src="https://github.com/user-attachments/assets/22164f21-850d-4ed6-a7c4-a12df489a8ba" />
+<img width="920" height="869" alt="Screenshot 2026-07-22 121129" src="https://github.com/user-attachments/assets/2b594601-5c35-48cb-8b84-83cc66a7a77d" />
 
 
 ---
@@ -64,7 +64,7 @@ I created a custom Azure Route Table (`Spoke-To-Firewall-Route`) in East US 2 an
 
 ---
 
-### 🚀 Key Technical Takeaways for Recruiters
-* **Zero-Trust Implementation:** Absolute separation of backend compute from the public web.
-* **Network Engineering:** Hands-on experience with CIDR block calculations, routing tables, and firewalls.
-* **Production Problem Solving:** Proven ability to troubleshoot real-world datacenter resource limits and adapt infrastructure on the fly.
+###  Key Technical Takeaways f
+* Zero-Trust Implementation Absolute separation of backend compute from the public web.
+* Network Engineering
+* Production Problem Solving
